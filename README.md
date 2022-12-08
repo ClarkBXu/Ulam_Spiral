@@ -5,7 +5,7 @@ Python script for finding the L1-norm (Manhattan) metric distance from the cente
 Clark Xu - December 7, 2022
 
 ## Purpose
-The Python script features a Nautilus Walk function. It includes two helper functions for constructing the Ulam Spiral squares and calculating Manhattan metric distance over the Ulam Spiral. It also includes 19 tests for verifying the script functionality, including 4 standard tests, 4 diagonal tests, 5 edge case tests, and 5 input error tests.
+The Python script features a Nautilus Walk function. It includes two helper functions for constructing the Ulam Spiral squares and calculating Manhattan metric distance over the Ulam Spiral. It also includes 19 tests for verifying the script functionality, including 4 standard tests, 4 diagonal tests, 6 edge case tests, and 5 input error tests.
 
 NumPy documented at: https://numpy.org/doc/stable/contents.html
 
@@ -22,13 +22,13 @@ nautilus_walk.py
 Script Input: <br>
 4 standard test cases <br>
 4 diagonal test cases <br>
-5 edge case test cases <br>
+6 edge case test cases <br>
 5 input error test cases
 
 Script Output: <br>
 4 standard tests <br>
 4 diagonal tests <br>
-5 edge case tests <br>
+6 edge case tests <br>
 5 input error tests
 
 The Python script takes about 0.1 seconds to run on 19 tests.
